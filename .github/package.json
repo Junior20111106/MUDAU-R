@@ -1,0 +1,19 @@
+{
+  "name": "mudau-r",
+  "version": "1.0.0",
+  "description": "Royal Group Bot by Mudau Thendo",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "engines": {
+    "node": "18.x"
+  },
+  "dependencies": {
+    "kord": "^1.0.0",
+    "mongodb": "^5.0.0",
+    "openai": "^4.0.0"
+  },
+  "author": "Mudau Thendo",
+  "license": "MIT"
+}
