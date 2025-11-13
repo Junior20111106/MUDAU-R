@@ -131,3 +131,7 @@ Follow the “royal” style 👑
 📜 License
 
 MIT License © 2025 Mudau Thendo
+
+
+Don't forget to join the offical アニメ・Sector X community:
+https://chat.whatsapp.com/JdCeTIp4tbG8XHAXGWCrcF
